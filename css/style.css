@@ -1,28 +1,35 @@
+/* http://colorate.azurewebsites.net/Color/78C2DC */
+
 .blog-pics {
   height: auto;
-  width: 250px;
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border: 1px solid #1234ba;
 }
 
 body {
-  background-color: #ff0087;
-  font-family: Helvetica, sans-serif;
-  width: 75%;
+  background-color: #4182CB;
+  font-family: 'Tajawal', sans-serif; 
+  /* 'IM Fell French Canon SC', serif; 'Abel', sans-serif;*/
+  width: 70%;
   margin: auto;
 }
 
-#fauna-title,
-#flora-title {
-  color: darkgrey;
+hr {
+	border: 0.5px solid #1234ba;
 }
 
 h1 {
-  background-color: lightgrey;
-  border: 1px solid lightgrey;
+  background-color: #1234ba;
+  border: 1px solid white;
   color: white;
-  font-size: 24px;
+  font-size: 30px;
   font-weight: 300;
   margin-bottom: 10px;
-  padding: 2% 5%;
+  padding-top: 2%;
+  text-align: center;
 }
 
 h2 {
@@ -30,8 +37,8 @@ h2 {
 }
 
 section {
-  background-color: white;
-  border: 1px solid lightgrey;
+  background-color: #78C2DC;
+  border: 1px solid #1234ba;
   line-height: 150%;
   margin-bottom: 10px;
   padding: 2% 5%;
